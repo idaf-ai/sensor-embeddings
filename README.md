@@ -1,4 +1,4 @@
-# sensor-embeddings
+# Sensor Embeddings to improve recognition
 
 Data collection and retrieval has come a long way in the past few years. Wearable technology, such as smart watches, and even mobile phones collect massive amounts of user data. However, this data can be difficult to work with due to the size and complexity. 
 
